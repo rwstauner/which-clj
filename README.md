@@ -2,6 +2,8 @@
 
 Find executable in PATH (or any file in a set of dirs).
 
+Works with jvm, babashka, and clojurescript on node.
+
 ## Usage
 
 ```clojure
